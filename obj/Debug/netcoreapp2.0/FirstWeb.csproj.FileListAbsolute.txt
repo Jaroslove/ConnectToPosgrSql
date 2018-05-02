@@ -1,0 +1,10 @@
+/home/jroslvoe/Documents/csharp/Web/FirstWeb/bin/Debug/netcoreapp2.0/FirstWeb.deps.json
+/home/jroslvoe/Documents/csharp/Web/FirstWeb/bin/Debug/netcoreapp2.0/FirstWeb.runtimeconfig.json
+/home/jroslvoe/Documents/csharp/Web/FirstWeb/bin/Debug/netcoreapp2.0/FirstWeb.runtimeconfig.dev.json
+/home/jroslvoe/Documents/csharp/Web/FirstWeb/bin/Debug/netcoreapp2.0/FirstWeb.dll
+/home/jroslvoe/Documents/csharp/Web/FirstWeb/bin/Debug/netcoreapp2.0/FirstWeb.pdb
+/home/jroslvoe/Documents/csharp/Web/FirstWeb/obj/Debug/netcoreapp2.0/FirstWeb.csproj.CoreCompileInputs.cache
+/home/jroslvoe/Documents/csharp/Web/FirstWeb/obj/Debug/netcoreapp2.0/FirstWeb.AssemblyInfoInputs.cache
+/home/jroslvoe/Documents/csharp/Web/FirstWeb/obj/Debug/netcoreapp2.0/FirstWeb.AssemblyInfo.cs
+/home/jroslvoe/Documents/csharp/Web/FirstWeb/obj/Debug/netcoreapp2.0/FirstWeb.dll
+/home/jroslvoe/Documents/csharp/Web/FirstWeb/obj/Debug/netcoreapp2.0/FirstWeb.pdb
